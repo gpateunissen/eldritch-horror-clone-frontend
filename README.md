@@ -1,4 +1,4 @@
-# Eldritch Horror Clone
+# Eldritch Horror Clone - FrontEnd
 
 **Personal Rust and React Project – For Learning Purposes Only**
 
